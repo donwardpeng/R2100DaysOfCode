@@ -17,3 +17,12 @@
 **Thoughts:** I learned more about quantization and how it impacts the size of a model. Additionally I learned the steps needed to use with the TensorFlow to convert it to a TensorFlow Lite model for use on microcontrollers. 
 
 **Link to work:** [Cosine App](https://github.com/donwardpeng/tiny_ml_cosine)
+
+### Day 2: April 14, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress**: Detour for the day - worked through the Arduino's Gesture TensorFlow lab to train a ML model to detect various gestures.
+
+**Thoughts:** Playing around with the various IDE's for Arduino, I have yet to find a good solution with Intellisense. 
+
+**Link to work:** [Cosine App](https://github.com/donwardpeng/tiny_ml_cosine)
