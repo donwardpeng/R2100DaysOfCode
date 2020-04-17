@@ -26,3 +26,12 @@
 **Thoughts:** Playing around with the various IDE's for Arduino, I have yet to find a good solution with Intellisense. 
 
 **Link to work:** [Cosine App](https://github.com/donwardpeng/tiny_ml_cosine)
+
+### Day 3: April 16, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Working with CLion from Jetbrains to get through the Arduino C code to run my cosine model.
+
+**Thoughts:** Since I am picky about my IDE, I am learning alot about the Arduino ecosystem as well as how the TensorFlow interpreter works on microcontrollers.
+
+**Link to work:** [Cosine App](https://github.com/donwardpeng/tiny_ml_cosine)
