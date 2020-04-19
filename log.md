@@ -35,3 +35,20 @@
 **Thoughts:** Since I am picky about my IDE, I am learning alot about the Arduino ecosystem as well as how the TensorFlow interpreter works on microcontrollers.
 
 **Link to work:** [Cosine App](https://github.com/donwardpeng/tiny_ml_cosine)
+
+### Day 4: April 17, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Spent part of my hour today getting CLion configured and orienting myself with the Arduino development workflow using it. Also contrasted how the TensorFlow project lays out project files to support multiple processors vs how the Arduino team does it.
+
+**Link to work:** [Cosine App](https://github.com/donwardpeng/tiny_ml_cosine)
+
+### Day 5: April 18, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Got CLion setup with PlatformIO so that I can work with all of the Arduino libraries and code in one C++ file. Also got the serial debugger running and started a new project with it all in place.
+
+**Thoughts:** Finally in a place where I can dig into creating and modifying the codebases provided to train a ML model for my purposes. 
+
+**Link to work:** [Cosine App](https://github.com/donwardpeng/tiny_ml_cosine)
+
