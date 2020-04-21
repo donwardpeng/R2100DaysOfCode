@@ -52,3 +52,11 @@
 
 **Link to work:** [Cosine App](https://github.com/donwardpeng/tiny_ml_cosine)
 
+### Day 6: April 20, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Got my cosine test model to run on the Arduino in CLion. Took a bit of selective copy and paste from the Arduino IDE in CLion as well as some modifications to get it to work with platform.io.
+
+**Thoughts:** CLion and Platform.io seem to integrate well, and the overall workflow is fairly straightforward.
+
+**Link to work:** [Cosine Test App](https://github.com/donwardpeng/cosine_test)
