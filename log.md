@@ -60,3 +60,12 @@
 **Thoughts:** CLion and Platform.io seem to integrate well, and the overall workflow is fairly straightforward.
 
 **Link to work:** [Cosine Test App](https://github.com/donwardpeng/cosine_test)
+
+### Day 7: April 21, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Tried something more difficult - adapting the micro speech example for Arduino to be used in CLion and PlatformIO. Still need some work to figure out what is not working - as well as need to figure out how to debug this. 
+
+**Thoughts:** CLion brings IntelliSense to the table as an IDE, something that the Arduino IDE does not support. Need to figure out what 'behind the scenes' magic is taking place with the Arduino TensorFlow Lite examples that they all work with the Arduino IDE and not CLion. 
+
+**Link to work:** [Arduino_Microspeech](https://github.com/donwardpeng/arduino_microspeech)
