@@ -69,3 +69,12 @@
 **Thoughts:** CLion brings IntelliSense to the table as an IDE, something that the Arduino IDE does not support. Need to figure out what 'behind the scenes' magic is taking place with the Arduino TensorFlow Lite examples that they all work with the Arduino IDE and not CLion. 
 
 **Link to work:** [Arduino_Microspeech](https://github.com/donwardpeng/arduino_microspeech)
+
+### Day 8: April 22, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Moved over to VS Code with PlatformIO. It seems to work much better and Intellisense works. Still working on getting my micro speech model to run.
+ 
+**Thoughts:** Interesting how much more useful the VS Code PlatformIO plugin over the Arduino plugin from Microsoft. 
+
+**Link to work:** [Arduino_Microspeech](https://github.com/donwardpeng/arduino_microspeech)
