@@ -70,11 +70,20 @@
 
 **Link to work:** [Arduino_Microspeech](https://github.com/donwardpeng/arduino_microspeech)
 
-### Day 8: April 22, 2020 
+### Day 8: April 23, 2020 
 ##### Learning how to work with TinyML
 
 **Today's Progress:** Moved over to VS Code with PlatformIO. It seems to work much better and Intellisense works. Still working on getting my micro speech model to run.
  
 **Thoughts:** Interesting how much more useful the VS Code PlatformIO plugin over the Arduino plugin from Microsoft. 
+
+**Link to work:** [Arduino_Microspeech](https://github.com/donwardpeng/arduino_microspeech)
+
+### Day 9: April 26, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Took a quick refresher course on C++ and header files to try and debug issues with my Arduino dependencies. Fully moved over to VSCode now.  
+
+**Thoughts:** Need to get back on course with daily work on this. 
 
 **Link to work:** [Arduino_Microspeech](https://github.com/donwardpeng/arduino_microspeech)
