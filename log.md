@@ -87,3 +87,12 @@
 **Thoughts:** Need to get back on course with daily work on this. 
 
 **Link to work:** [Arduino_Microspeech](https://github.com/donwardpeng/arduino_microspeech)
+
+### Day 10: April 27, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Properly setup all of my libraries in the project - not drawing from all of the my computer. Debugging why the Arduino sketch I am using seems to be becoming unresponsive soon after start (or at least it is acting like it).
+
+**Thoughts:** First debugging opportunity for me using an Arduino - this is where real skills are built.  
+
+**Link to work:** [Arduino_Microspeech](https://github.com/donwardpeng/arduino_microspeech)
