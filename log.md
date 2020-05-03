@@ -96,3 +96,23 @@
 **Thoughts:** First debugging opportunity for me using an Arduino - this is where real skills are built.  
 
 **Link to work:** [Arduino_Microspeech](https://github.com/donwardpeng/arduino_microspeech)
+
+### Day 11: April 29, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Made some progress with the TensorFlow Micro Speech example code. 
+
+Switching back to the TensorFlow motion classification since I think it will be beneficial to understand the TensorFlow Lite code there before going back to a more difficult code base. 
+
+**Thoughts:** Sometimes you have to take a step back to move forward. I think I totally messed up my project, and do not really know how to get it back to a working state. 
+
+**Link to work:** [Arduino_Microspeech](https://github.com/donwardpeng/arduino_microspeech)
+
+### Day 12: May 2, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Started a new project using PlatformIO with the Gesture Classification Tensorflow Lite example. Retrained the model and got it all working - now to start tinkering with the code.
+
+**Thoughts:** This has been a hard week to move this forward - I wrote an AWS Cert and this project suffered for it - there are only so many hours in the day :) 
+
+**Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
