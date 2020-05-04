@@ -116,3 +116,12 @@ Switching back to the TensorFlow motion classification since I think it will be 
 **Thoughts:** This has been a hard week to move this forward - I wrote an AWS Cert and this project suffered for it - there are only so many hours in the day :) 
 
 **Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
+
+### Day 13: May 3, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Read the entire codebase for the Gesture Classification example. Dug in and researched the accelerometer and gyroscope used - looked up their data sheet and understand how the values are scaled. The ability to marry an IMU with ML on such a small board has a ton of opportunities. 
+
+**Thoughts:** As always, when working with microcontrollers - knowing the hardware and how it operates is super important. It is not just code - knowing the underlying hardware is all part of the equation. 
+
+**Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
