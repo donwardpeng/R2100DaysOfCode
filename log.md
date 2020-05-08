@@ -125,3 +125,31 @@ Switching back to the TensorFlow motion classification since I think it will be 
 **Thoughts:** As always, when working with microcontrollers - knowing the hardware and how it operates is super important. It is not just code - knowing the underlying hardware is all part of the equation. 
 
 **Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
+
+
+### Day 13.5: May 5, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Life happens - only got 1/2 hour in today training new gestures for the Gesture Classifier codebase on Arduino. 
+
+Trying to test out what the effect of training a bunch of simple gestures would be towards recognizing more complex gestures in sequence.
+
+**Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
+
+### Day 14: May 6, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Playing with the different settings for the Gesture Recognition model. Becoming comfortable with the basics of loading a TensorFlow model into memory and inferring with it on an Arduino. 
+
+**Thoughts:** Getting a feel for all of the hardware on the Arduino
+
+**Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
+
+### Day 15: May 7, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Went back to my cosine wave classification and messed with the RGB led. Also continue to learn more complex TensorFlow examples light trigger word detection. 
+
+**Thoughts:** Slowly putting together all of the pieces.
+
+**Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
