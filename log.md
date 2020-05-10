@@ -153,3 +153,12 @@ Trying to test out what the effect of training a bunch of simple gestures would 
 **Thoughts:** Slowly putting together all of the pieces.
 
 **Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
+
+### Day 16: May 9, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Recorded samples for movement in 2 directions (up/down motion, down/up motion, etc.) and worked on training a model to recognize the directions using a Google Colab built for Gesture Detection. Limited success, as the training error was in the 18% range and the validation error was in the 19% range. 
+
+**Thoughts:** Working to modify the shape of the NN is an art.
+
+**Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
