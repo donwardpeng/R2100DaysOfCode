@@ -162,3 +162,14 @@ Trying to test out what the effect of training a bunch of simple gestures would 
 **Thoughts:** Working to modify the shape of the NN is an art.
 
 **Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
+
+### Day 17: May 11, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Changed my neural network architecture and was able to get my training error down to 2% and validation error down to 3%. 
+
+When running on the Arduino board, side to side motions are classified pretty accurately, but up/down motions are 50-50.   
+
+**Thoughts:** Next steps - refine the sampling of motions - take out the dependence on having 2.5G's of motion to trigger - change it to start based on a digital input. 
+
+**Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
