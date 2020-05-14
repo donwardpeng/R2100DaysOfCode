@@ -173,3 +173,21 @@ When running on the Arduino board, side to side motions are classified pretty ac
 **Thoughts:** Next steps - refine the sampling of motions - take out the dependence on having 2.5G's of motion to trigger - change it to start based on a digital input. 
 
 **Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
+
+### Day 18: May 12, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Doing some research into how to wire up a button for gesture capture and soldiering the entire Arduino together for it.  
+
+**Thoughts:** Mostly hardware today.
+
+**Link to work:** [Arduino_Gesture_Classifier](https://github.com/donwardpeng/platformio_gesture_classifier)
+
+### Day 19: May 13, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Coded up a gesture capture sketch to be triggered from a push button and to use an LED to display when recording. My plan is to use this to capture more gestures more accurately in the coming days. Also - dusted off the old soldiering iron - need to soldier my Arduino to some pins. 
+
+**Thoughts:** A lot of the Arduino TensorFlow libraries are fairly pre-canned - not changing the code for them much yet.
+
+**Link to work:** [Arduino Gesture Capture](https://github.com/donwardpeng/platformio_gesture_capture_with_button)
