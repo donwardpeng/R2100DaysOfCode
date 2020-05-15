@@ -191,3 +191,12 @@ When running on the Arduino board, side to side motions are classified pretty ac
 **Thoughts:** A lot of the Arduino TensorFlow libraries are fairly pre-canned - not changing the code for them much yet.
 
 **Link to work:** [Arduino Gesture Capture](https://github.com/donwardpeng/platformio_gesture_capture_with_button)
+
+### Day 20: May 14, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Finished off soldering, debugging and coding of the Arduino Gesture Capture code. Got it running and messing around with the measurements it captures. Interesting thing - the accelerometer appears to measure the effect of gravity - meaning when the Arduino is at rest there is always one axis measuring a value of 1 depending on the orientation of the Arduino. 
+
+**Thoughts:** Gaining a better understanding of how the IMU sensor works on the Arduino. Now I need to determine the movements, to measure and classify for my training. Definitely need to account how the orientation of the Arduino affects the measurements. 
+
+**Link to work:** [Arduino Gesture Capture](https://github.com/donwardpeng/platformio_gesture_capture_with_button)
