@@ -200,3 +200,12 @@ When running on the Arduino board, side to side motions are classified pretty ac
 **Thoughts:** Gaining a better understanding of how the IMU sensor works on the Arduino. Now I need to determine the movements, to measure and classify for my training. Definitely need to account how the orientation of the Arduino affects the measurements. 
 
 **Link to work:** [Arduino Gesture Capture](https://github.com/donwardpeng/platformio_gesture_capture_with_button)
+
+### Day 21: May 16, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Did not have a chance to start sampling gestures, so I started digging into the micro speech example. Dug into how they build up a layered model to do speech recognition for the words 'yes' and 'no'.  
+
+**Thoughts:** Need to read more in the TinyML book on how they build the micro speech example. 
+
+**Link to work:** [Arduino Micro Speech](https://github.com/donwardpeng/platformio_speech_recognizer)
