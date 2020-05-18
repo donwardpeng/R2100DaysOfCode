@@ -209,3 +209,12 @@ When running on the Arduino board, side to side motions are classified pretty ac
 **Thoughts:** Need to read more in the TinyML book on how they build the micro speech example. 
 
 **Link to work:** [Arduino Micro Speech](https://github.com/donwardpeng/platformio_speech_recognizer)
+
+### Day 22: May 17, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Had an idea this morning to capture gesture samples wirelessly over BLE instead of while connected via USB to the Arduino controller. Worked on this today - learning about the BLE spec, how it works and getting a small BLE app working to allow communication from the Arduino to my Android tablet. 
+
+**Thoughts:** Next steps - learn more about BLE and connect the IMU samples to it. 
+
+**Link to work:** [Arduino Micro Speech](https://github.com/donwardpeng/platformio_speech_recognizer)
