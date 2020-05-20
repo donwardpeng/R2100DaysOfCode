@@ -227,3 +227,12 @@ When running on the Arduino board, side to side motions are classified pretty ac
 **Thoughts:** Always fun to code in Python when you get a chance.
 
 **Link to work:** [Arduino Micro Speech](https://github.com/donwardpeng/platformio_speech_recognizer)
+
+### Day 24: May 19, 2020 
+##### Challenges for AWS Cert 
+
+**Today's Progress:** Another Detour today - as part of an AWS cert I am working on, I have been playing around with AWS Athena to query weather data from the Registry of Open Data on AWS. Learned a bunch about how it works, although did not quite get my query to run correctly. 
+
+**Thoughts:** A lot of moving pieces with AWS Athena, although it seems incredibly powerful.
+
+**Link to work:** [Arduino Micro Speech](https://github.com/donwardpeng/platformio_speech_recognizer)
