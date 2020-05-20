@@ -218,3 +218,12 @@ When running on the Arduino board, side to side motions are classified pretty ac
 **Thoughts:** Next steps - learn more about BLE and connect the IMU samples to it. 
 
 **Link to work:** [Arduino Micro Speech](https://github.com/donwardpeng/platformio_speech_recognizer)
+
+### Day 23: May 18, 2020 
+##### Learning how to work with TinyML
+
+**Today's Progress:** Detour today - as part of an AWS cert I am working on, I coded a AWS Lambda behind an API Gateway (RESTful endpoint) to make an API call and return Ozone levels for certain cities in the US. 
+
+**Thoughts:** Always fun to code in Python when you get a chance.
+
+**Link to work:** [Arduino Micro Speech](https://github.com/donwardpeng/platformio_speech_recognizer)
