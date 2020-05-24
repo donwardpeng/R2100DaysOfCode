@@ -236,3 +236,21 @@ When running on the Arduino board, side to side motions are classified pretty ac
 **Thoughts:** A lot of moving pieces with AWS Athena, although it seems incredibly powerful.
 
 **Link to work:** [Arduino Micro Speech](https://github.com/donwardpeng/platformio_speech_recognizer)
+
+### Day 25: May 21, 2020 
+##### Challenges for AWS Cert 
+
+**Today's Progress:** Another Detour today -  spent the day working with AWS Athena again as well as watching AWS cert videos.
+
+**Thoughts:** It is pretty amazing the amount of data that is open source and accessible via Athena.
+
+**Link to work:** [Arduino Micro Speech](https://github.com/donwardpeng/platformio_speech_recognizer)
+
+### Day 26: May 22, 2020 
+##### Working on a BLE Monitor for Arduino to record IMU motions 
+
+**Today's Progress:** Got a better idea how Bluetooth Low Energy works with Arduino. Successfully logging the motion (accelerometer and gyroscope) over BLE to my Android tablet. This give me a portable gesture recorder to record gestures to train ML models with. 
+
+**Thoughts:** The number of sensors packed on the Arduino Nano BLE 33 board is pretty impressive. 
+
+**Link to work:** [Arduino BLE IMU Monitor](https://github.com/donwardpeng/platformio_ble_monitor)
