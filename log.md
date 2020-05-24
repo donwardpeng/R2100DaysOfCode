@@ -246,7 +246,7 @@ When running on the Arduino board, side to side motions are classified pretty ac
 
 **Link to work:** [Arduino Micro Speech](https://github.com/donwardpeng/platformio_speech_recognizer)
 
-### Day 26: May 22, 2020 
+### Day 26: May 23, 2020 
 ##### Working on a BLE Monitor for Arduino to record IMU motions 
 
 **Today's Progress:** Got a better idea how Bluetooth Low Energy works with Arduino. Successfully logging the motion (accelerometer and gyroscope) over BLE to my Android tablet. This give me a portable gesture recorder to record gestures to train ML models with. 
