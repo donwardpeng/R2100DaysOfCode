@@ -254,3 +254,12 @@ When running on the Arduino board, side to side motions are classified pretty ac
 **Thoughts:** The number of sensors packed on the Arduino Nano BLE 33 board is pretty impressive. 
 
 **Link to work:** [Arduino BLE IMU Monitor](https://github.com/donwardpeng/platformio_ble_monitor)
+
+### Day 27: May 24, 2020 
+##### Working on a BLE Monitor for Arduino to record IMU motions 
+
+**Today's Progress:** Added logic to log the IMU values over BLE when a button is pressed. Next steps - capture some logs and remove the extra BLE log info to allow me to gather valid data for training a ML model based off them. 
+
+**Thoughts:** Need to define various gestures to capture. 
+
+**Link to work:** [Arduino BLE IMU Monitor](https://github.com/donwardpeng/platformio_ble_monitor)
