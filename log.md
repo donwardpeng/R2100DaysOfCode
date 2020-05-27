@@ -258,6 +258,15 @@ When running on the Arduino board, side to side motions are classified pretty ac
 ### Day 27: May 24, 2020 
 ##### Working on a BLE Monitor for Arduino to record IMU motions 
 
+**Today's Progress:**  Added logic to log the IMU values over BLE when a button is pressed. 
+
+Next steps - capture some logs and remove the extra BLE log info to allow me to gather valid data for training a ML model based off them.
+
+**Link to work:** [Arduino BLE IMU Monitor](https://github.com/donwardpeng/platformio_ble_monitor)
+
+### Day 28: May 26, 2020 
+##### Working on a BLE Monitor for Arduino to record IMU motions 
+
 **Today's Progress:** Bugs and a few more bugs found in BLE Arduino code while integrating with my button input. It appears I have a race condition causing my Bluetooth connection to hang once connected to a central device. Working to debug the timing. 
 
 **Thoughts:** It all looked good before I tried to run it :) 
