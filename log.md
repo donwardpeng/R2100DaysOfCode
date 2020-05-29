@@ -272,3 +272,12 @@ Next steps - capture some logs and remove the extra BLE log info to allow me to 
 **Thoughts:** It all looked good before I tried to run it :) 
 
 **Link to work:** [Arduino BLE IMU Monitor](https://github.com/donwardpeng/platformio_ble_monitor)
+
+### Day 29: May 28, 2020 
+##### Working on a BLE Monitor for Arduino to record IMU motions 
+
+**Today's Progress:** I have BLE from my phone to my Arduino working with the IMU and acceleration values. As I learn more, I need to rethink how I am sending the values since I am certain I am dropping values.  
+
+**Thoughts:** BLE is more complicated than I initial thought. Now I am more determined to figure this out.
+
+**Link to work:** [Arduino BLE IMU Monitor](https://github.com/donwardpeng/platformio_ble_monitor)
