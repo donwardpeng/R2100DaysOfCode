@@ -281,3 +281,23 @@ Next steps - capture some logs and remove the extra BLE log info to allow me to 
 **Thoughts:** BLE is more complicated than I initial thought. Now I am more determined to figure this out.
 
 **Link to work:** [Arduino BLE IMU Monitor](https://github.com/donwardpeng/platformio_ble_monitor)
+
+### Day 30: May 30, 2020 
+##### Working on a BLE Monitor for Arduino to record IMU motions 
+
+**Today's Progress:** Digging in to the book TinyML to get more insights to their approach to creating apps with ML for microcontrollers. 
+
+Following their approach, started writing tests to run locally before running on device.
+
+**Thoughts:** Not sure how this will work for more complex models - I am sure we will find out. 
+
+**Link to work:** [Arduino BLE IMU Monitor](https://github.com/donwardpeng/platformio_ble_monitor)
+
+### Day 31: June 1, 2020 
+##### Working on a BLE Monitor for Arduino to record IMU motions 
+
+**Today's Progress:** Buffer and stream - my new strategy to sampling IMU data and sending it over BLE. First sample the IMU data for as long as needed, buffering the values on board and then stream the values over BLE to my Android phone. Not done the code yet, but this should definitely work, since BLE can not keep up to the rate I want to sample IMU data. 
+
+**Thoughts:** Took awhile to realize this is a better solution than trying to stream data over BLE from a sensor that reports much quicker than BLE can stream. 
+
+**Link to work:** [Arduino BLE IMU Monitor](https://github.com/donwardpeng/platformio_ble_monitor)
