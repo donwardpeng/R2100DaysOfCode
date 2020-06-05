@@ -301,3 +301,22 @@ Following their approach, started writing tests to run locally before running on
 **Thoughts:** Took awhile to realize this is a better solution than trying to stream data over BLE from a sensor that reports much quicker than BLE can stream. 
 
 **Link to work:** [Arduino BLE IMU Monitor](https://github.com/donwardpeng/platformio_ble_monitor)
+
+### Day 32: June 3, 2020 
+##### Working on a BLE Monitor for Arduino to record IMU motions 
+
+**Today's Progress:** Shifted gears today and went deep on IAM Users, Roles and Policies for the AWS Pro Architect Cert I am working on. 
+
+Worked through an hour lab creating IAM Roles and connecting them to various AWS services, as well as restricting permissions. 
+
+**Link to work:** [Arduino BLE IMU Monitor](https://github.com/donwardpeng/platformio_ble_monitor)
+
+### Day 32: June 4, 2020 
+##### Working on a BLE Monitor for Arduino to record IMU motions 
+
+**Today's Progress:** Debugging my buffer and stream strategy. There is an issue where I am sampling twice each time I trigger the sampling to fill up my buffer. I feel there is something I am missing about how Arduino's loop functions run. By the way - debugging this I learned how fast they really go. 
+
+**Thoughts:** Need to dig into some Arduino documentation. 
+
+**Link to work:** [Arduino BLE IMU Monitor](https://github.com/donwardpeng/platformio_ble_monitor)
+
